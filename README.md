@@ -6,7 +6,7 @@ Passionate about software development, web apps, and building practical IT solut
 
 ## Skills
 - **Programming:** Java, C#  
-- **Web Development:** HTML, CSS, JavaScript, PHP, API Integration  
+- **Web Development:** HTML, CSS, JavaScript, PHP, **React**, API Integration  
 - **Database Management:** MySQL, SQL Server  
 - **Tools:** Git, Visual Studio Code, .NET  
 - **Soft Skills:** Communication, Leadership, Teamwork, Problem-Solving
@@ -22,9 +22,13 @@ Passionate about software development, web apps, and building practical IT solut
 
 ---
 
-### Additional Projects (Optional)
-- You can add other coursework or personal projects here to show your range  
-- Example: Portfolio Website, Mini .NET App, Java Console Programs  
+### Additional Practice
+-Can View the Practice Projects in the Repo
+-Instagram Clone(React)
+-Movie Website(React)
+-Tourist System(php)
+-Institute System(php)
+
 
 ---
 
